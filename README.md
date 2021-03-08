@@ -1,7 +1,10 @@
 # Preprint–publication Linker
 
-Scripts to link preprints to the associated publications by querying the [Crossref REST API](https://www.crossref.org/education/retrieve-metadata/rest-api/).
+This repository contains the scripts used to link preprints to the associated publications by querying the [Crossref REST API](https://www.crossref.org/education/retrieve-metadata/rest-api/).
 
+See the daily report of the preprint–publication linker on the [COVID-19 Preprint Tracker](https://www.irit.fr/~Guillaume.Cabanac/covid19-preprint-tracker).
+
+---
 
 Supplementary materials to:
 
