@@ -8,6 +8,6 @@ See the daily report of the preprint–publication linker on the [COVID-19 Prepr
 
 Supplementary materials to:
 
-Cabanac, G., Oikonomidi, T., Boutron, I. (to appear). Day-to-day discovery of preprint–publication links. *Scientometrics*. https://doi.org/10.1007/s11192-021-03900-7
+Cabanac, G., Oikonomidi, T., Boutron, I. (2021). Day-to-day discovery of preprint–publication links. *Scientometrics*. https://doi.org/10.1007/s11192-021-03900-7
 
 (see also https://doi.org/10.5281/zenodo.4432116)
